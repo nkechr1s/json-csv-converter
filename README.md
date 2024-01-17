@@ -7,6 +7,7 @@ go mod tidy
 # this runs the json to csv convert
 go run main.go
 
-cd csv_to_json
+
 # this runs the csv to json convert
-go fun csv_to_json.go
+cd csv_to_json
+go run csv_to_json.go
