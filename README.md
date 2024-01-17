@@ -10,4 +10,5 @@ go run main.go
 
 # this runs the csv to json convert
 cd csv_to_json
+
 go run csv_to_json.go
